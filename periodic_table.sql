@@ -121,6 +121,7 @@ INSERT INTO public.elements VALUES (2, 'He', 'Helium');
 INSERT INTO public.elements VALUES (3, 'Li', 'Lithium');
 INSERT INTO public.elements VALUES (4, 'Be', 'Beryllium');
 INSERT INTO public.elements VALUES (5, 'B', 'Boron');
+INSERT INTO public.elements VALUES (9, 'F', 'Fluorine');
 
 
 --
@@ -132,6 +133,7 @@ INSERT INTO public.properties VALUES (2, 4.0026, -272.2, -268.9, 2);
 INSERT INTO public.properties VALUES (3, 6.94, 180.5, 1342, 1);
 INSERT INTO public.properties VALUES (4, 9.0122, 1287, 2469, 1);
 INSERT INTO public.properties VALUES (5, 10.81, 2075, 4000, 3);
+INSERT INTO public.properties VALUES (9, 18.998, -220, -188.1, 2);
 
 
 --
